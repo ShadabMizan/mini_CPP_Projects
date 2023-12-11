@@ -1,4 +1,6 @@
 // Goal: To Validate credit card numbers using the Luhn Algorithm
+// Learning Objectives: Introduce myself to arrays
+//                      Build upon knowledge using control statements
 
 // The Luhn Algorithm Follows the steps below
 // 1. Double every second digit from right to left, if a doubled number is 2 digits, split them.

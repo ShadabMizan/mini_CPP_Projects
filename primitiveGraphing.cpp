@@ -1,5 +1,7 @@
 // Goal: to convert numerical values representing ratings on a 5-star scale into a bar graph representation in the terminal
-
+// Learning Objective:  Build Arrays based on the standard library array, and use its built in functions
+//                      Implement the type size_t
+//                      Implement constexpr to set an Array's size during compile time.
 #include <iostream>
 #include <array>
 #include <iomanip>
